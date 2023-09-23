@@ -1,0 +1,23 @@
+/* Write your code here. */
+.page {
+  font-family: Roboto;
+  min-height: 100vh;
+  max-height: 100%;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding-bottom: 100px;
+}
+.emoji-container {
+  padding: 40px;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 150px;
+  margin-right: 150px;
+}
